@@ -1,5 +1,4 @@
-# mugmark
-Mugmark Video game
+# Mugmark Video game
 
 This repository contains the code for my video game Mugmark. It's an homage to Cuphead (pretty obviously, if you check it out). Here is a link to a demo level: https://www.youtube.com/watch?v=SDwu2OX3R_0.
 
