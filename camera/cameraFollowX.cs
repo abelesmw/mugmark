@@ -26,19 +26,4 @@ public class cameraFollowX : MonoBehaviour
             camera.position = new Vector3(Player.position.x, camera.position.y, camera.position.z);
         }
     }
-
-    private void LateUpdate()
-    {
-            
-            //camera.position = Vector3.Lerp(transform.position, new Vector3(Player.position.x, Player.position.y, -10f), .1f);
-            //camera.position = Vector3.Lerp(camera.position, new Vector3(Player.position.x, Player.position.y, Player.position.z), smoothing * Time.deltaTime);
-        
-
-        // camera.position = Vector3.Lerp(camera.position, playerVector, smoothing * Time.deltaTime);
-        /* if(Player.position.x >= 15 && Player.position.x < 90)
-         {
-             camera.position = new Vector3(Player.position.x, camera.position.y, camera.position.z);
-         }*/
-
-    }
 }
