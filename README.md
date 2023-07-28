@@ -5,6 +5,6 @@ This repository contains the code for my video game Mugmark. It's an homage to C
 
 Some notes about the project:
 
-*  All of the frames of animation and hand drawn using Procreate on iPad.
+*  All of the frames of animation are hand drawn using Procreate on iPad.
 *  Game is built in Unity
 *  All of the code was written in Visual Studio in C#
